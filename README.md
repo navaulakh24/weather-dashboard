@@ -13,6 +13,7 @@ This application involved using third-party APIs to build a weather dashboard th
 * [Installation](#installation)
 * [Usage](#usage)
 * [Usage](#usage)
+* [Deployed Link](#deployed-link)
 * [License](#license)
 * [Contact Information](#contact-information)
 #
@@ -40,14 +41,17 @@ THEN I am again presented with current and future conditions for that city
 
 ## Installation 
 Clone or Download as a zip file via GitHub
-#
+
 ## Usage 
 Simply right click on the "index.html" file and click "Open in deafult browser". This will now open the application in your browser. Type a city name in the search bar and the current weather as well as the 5 day forecast will be displayed. You can search up multiple cities and have them saved under the search input so you can easily access the same cities again.
 
-#
+You may also just click on the deployed link without having to download the repo.
+
+## Deployed Link
+Click [here](https://navaulakh24.github.io/weather-dashboard/) to view the webpage.
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-orange) 
-#
+
 ## Contact Information
 
 GitHub User: navaulakh24
