@@ -1,5 +1,10 @@
 # Weather-Dashboard
 ![badge](https://img.shields.io/badge/license-MIT-orange)
+<img src="https://img.shields.io/badge/-HTML-brightgreen" />
+<img src="https://img.shields.io/badge/-JavaScript-blue" />
+<img src="https://img.shields.io/badge/-Open Weather Map API-orange" />
+    <img src="https://img.shields.io/badge/-geolocation API-yellowgreen"  />
+
 ## Description
 This application involved using third-party APIs to build a weather dashboard that runs in the browser. Local storage was used to store any persistent data. I used the OpenWeatherMap API to create a 5 Day Weather Forecast to retrieve weather data for cities.
 #
@@ -31,6 +36,7 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ```
 #
+![Webpage](./assets/images/Screenshot%20(27).png)
 
 ## Installation 
 Clone or Download as a zip file via GitHub
@@ -46,6 +52,6 @@ Simply right click on the "index.html" file and click "Open in deafult browser".
 
 GitHub User: navaulakh24
 
-GitHub repo: [Weather-Dashboard]()
+GitHub repo: [Weather-Dashboard](https://github.com/navaulakh24/weather-dashboard)
 
 Email: navdeep_aulakh24@hotmail.com
